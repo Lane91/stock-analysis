@@ -30,7 +30,7 @@ The refactored code combined the code of module 2 and module 3, along with re-wr
 The pros are that refactoring can make your code quicker and cleaner allowing it to do more under one macro as opposed two having multiple macros to do one job. The main cons of refactoring code is time which you may not always have, and another con is that if you are not carful it is very easy to loose your place or write the wrong code in the wrong spot and having to go back multiple times to fix it.
 
 ### Orginal Code VS Refactored Code 
-The orginal coe was broken up over two modules and ran in a slower time, where as the refactored code was all under on macro and had a quicker run time as well as giving back more accurate information on the stocks.
+The orginal code was broken up over two modules and ran in a slower time, where as the refactored code was all under on macro and had a quicker run time as well as giving back more accurate information on the stocks.
 
 
 
